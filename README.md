@@ -1,1 +1,1 @@
-# -Dev-Notes-JavaScript
+# Dev Notes JavaScript
